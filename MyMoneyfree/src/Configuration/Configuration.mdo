@@ -44,6 +44,7 @@
   <commonPictures>CommonPicture.ПодсистемаСобытия</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаФинансы</commonPictures>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
